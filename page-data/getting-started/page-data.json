@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-orga-src-templates-posts-query-js",
+    "path": "/getting-started",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby With Orga"}},"allOrgPost":{"nodes":[{"id":"29758de5-1966-5e47-9e40-eb7820c4c875","title":"Untitled","category":"getting-started","excerpt":"","date":null,"tags":[],"slug":"/untitled"},{"id":"e644c576-89c4-5298-b28b-1498f2aac93c","title":"Untitled","category":"getting-started","excerpt":"","date":"November 10, 2020","tags":["tutorial"],"slug":"/untitled"},{"id":"2b86d537-ffd3-5ccf-b5de-fafa06d47cfa","title":"Untitled","category":"getting-started","excerpt":"","date":"November 10, 2020","tags":["tutorial"],"slug":"/untitled"}]}},"pageContext":{"ids":["29758de5-1966-5e47-9e40-eb7820c4c875","e644c576-89c4-5298-b28b-1498f2aac93c","2b86d537-ffd3-5ccf-b5de-fafa06d47cfa"],"columns":2}},
+    "staticQueryHashes": ["2744905544","3628345943","764694655"]}
